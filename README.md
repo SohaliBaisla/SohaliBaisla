@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Sohali</h1>
-<h3 align="center">A Student, Machine Learning Enthusiast and a Passionate Learner</h3>
-
 
 <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+
+<h3 align="center">A Student, Machine Learning Enthusiast and a Passionate Learner</h3>
+
 
 - 🌱 I’m currently learning **Web Development**
 
